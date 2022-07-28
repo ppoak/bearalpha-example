@@ -1,5 +1,5 @@
 import bearalpha as ba
-from ..core import FactorBase
+from ..tools import FactorBase
 
 class FactorLeverage(FactorBase):
     def __init__(self, name):

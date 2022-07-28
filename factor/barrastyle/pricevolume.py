@@ -1,5 +1,5 @@
 import bearalpha as ba
-from ..core import *
+from ..tools import *
 
 class FactorPriceVolume(FactorBase):
     def __init__(self, name):
